@@ -1,0 +1,13 @@
+Software:
+	Stellarium, 
+	Python,
+	bitstring library (python),
+	Qt4 gui library,
+	Arduino IDE,
+	astropy library
+	
+Hardware:
+	Astronomical Laser pointer (5mW)
+	(link: http://www.amazon.in/532nm-Astronomy-Mid-open-Green-Pointer/dp/B00O8NVK6I?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00)
+	Pan-tilt mechanism
+	Arduino Uno
